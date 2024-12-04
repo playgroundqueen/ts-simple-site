@@ -29,7 +29,12 @@ html {
   small {
     font-size: 75%;
   }
-  
+    
+  img.banner {
+    width:100%;
+    height:auto;
+  }
+
   /**
    * Headings
    */
